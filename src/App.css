@@ -1,0 +1,24 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+	color: black;
+}
+
+.btn-submit {
+	font-size: 1.7rem;
+	border-radius: 15px;
+	margin-top: 12.5%;
+	background-color: white;
+	padding: 4%;
+	border: 1px red solid;
+}
+
+.btn-submit:hover {
+	box-shadow: 0 0 1px red, 0 0 1px red, 0 0 10px red;
+}
+
+.btn:hover {
+	cursor: pointer;
+}
